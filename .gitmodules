@@ -10,9 +10,6 @@
 [submodule "themes/RTMaterial"]
 	path = themes/RTMaterial
 	url = git@github.com:hitsoft-redmine/RTMaterial.git
-[submodule "plugins/redmine_rtmaterial"]
-	path = plugins/redmine_rtmaterial
-	url = git@github.com:hitsoft-redmine/redmine_rtmaterial.git
 [submodule "themes/PurpleMine2"]
 	path = themes/PurpleMine2
 	url = git@github.com:hitsoft-redmine/PurpleMine2.git
