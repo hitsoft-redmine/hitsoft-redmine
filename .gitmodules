@@ -1,0 +1,6 @@
+[submodule "themes/flatly_light_redmine"]
+	path = themes/flatly_light_redmine
+	url = git@github.com:hitsoft-redmine/flatly_light_redmine.git
+[submodule "plugins/redmine_git_mirror"]
+	path = plugins/redmine_git_mirror
+	url = git@github.com:hitsoft-redmine/redmine_git_mirror.git
