@@ -1,0 +1,16 @@
+version: '3.1'
+
+services:
+
+  redmine:
+    image: redmine
+    restart: always
+    ports:
+    - 9999:3000
+    environment:
+      REDMINE_PLUGINS_MIGRATE: 'true'
+    volumes:
+    - ./files:/usr/src/redmine/files
+    - ./plugins:/usr/src/redmine/plugins
+    - ./themes/flatly_light_redmine:/usr/src/redmine/public/themes/flatly_light_redmine
+    - ./db:/usr/src/redmine/sqlite
