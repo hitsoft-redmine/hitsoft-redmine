@@ -7,3 +7,9 @@
 [submodule "plugins/redmine_theme_changer"]
 	path = plugins/redmine_theme_changer
 	url = git@github.com:hitsoft-redmine/redmine_theme_changer.git
+[submodule "themes/RTMaterial"]
+	path = themes/RTMaterial
+	url = git@github.com:hitsoft-redmine/RTMaterial.git
+[submodule "plugins/redmine_rtmaterial"]
+	path = plugins/redmine_rtmaterial
+	url = git@github.com:hitsoft-redmine/redmine_rtmaterial.git
