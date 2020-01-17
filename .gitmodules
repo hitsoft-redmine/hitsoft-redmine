@@ -4,3 +4,6 @@
 [submodule "plugins/redmine_git_mirror"]
 	path = plugins/redmine_git_mirror
 	url = git@github.com:hitsoft-redmine/redmine_git_mirror.git
+[submodule "plugins/redmine_theme_changer"]
+	path = plugins/redmine_theme_changer
+	url = git@github.com:hitsoft-redmine/redmine_theme_changer.git
