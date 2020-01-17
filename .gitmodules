@@ -13,3 +13,6 @@
 [submodule "themes/PurpleMine2"]
 	path = themes/PurpleMine2
 	url = git@github.com:hitsoft-redmine/PurpleMine2.git
+[submodule "plugins/redmine_mentions"]
+	path = plugins/redmine_mentions
+	url = git@github.com:hitsoft-redmine/redmine_mentions.git
