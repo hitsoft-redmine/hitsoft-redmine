@@ -19,3 +19,6 @@
 [submodule "plugins/redmine_shortcuts"]
 	path = plugins/redmine_shortcuts
 	url = git@github.com:hitsoft-redmine/redmine_shortcuts.git
+[submodule "plugins/select_to_select2"]
+	path = plugins/select_to_select2
+	url = git@github.com:hitsoft-redmine/select_to_select2.git
