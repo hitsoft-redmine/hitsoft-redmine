@@ -31,3 +31,6 @@
 [submodule "plugins/redmine_wiki_lists"]
 	path = plugins/redmine_wiki_lists
 	url = git@github.com:hitsoft-redmine/redmine_wiki_lists.git
+[submodule "plugins/redmine_issues_hub"]
+	path = plugins/redmine_issues_hub
+	url = git@github.com:hitsoft-redmine/redmine_issues_hub.git
