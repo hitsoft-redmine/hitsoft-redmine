@@ -28,3 +28,6 @@
 [submodule "project/redmine_project_alias_2"]
 	path = project/redmine_project_alias_2
 	url = git@github.com:hitsoft-redmine/redmine_project_alias_2.git
+[submodule "plugins/redmine_wiki_lists"]
+	path = plugins/redmine_wiki_lists
+	url = git@github.com:hitsoft-redmine/redmine_wiki_lists.git
