@@ -40,3 +40,6 @@
 [submodule "plugins/redmine_callout_macro"]
 	path = plugins/redmine_callout_macro
 	url = git@github.com:hitsoft-redmine/redmine_callout_macro.git
+[submodule "plugins/redmine_share"]
+	path = plugins/redmine_share
+	url = git@github.com:hitsoft-redmine/redmine_share.git
