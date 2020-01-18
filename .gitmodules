@@ -16,3 +16,6 @@
 [submodule "plugins/redmine_mentions"]
 	path = plugins/redmine_mentions
 	url = git@github.com:hitsoft-redmine/redmine_mentions.git
+[submodule "plugins/redmine_shortcuts"]
+	path = plugins/redmine_shortcuts
+	url = git@github.com:hitsoft-redmine/redmine_shortcuts.git
