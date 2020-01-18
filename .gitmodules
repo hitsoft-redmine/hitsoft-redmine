@@ -37,3 +37,6 @@
 [submodule "plugins/plantuml"]
 	path = plugins/plantuml
 	url = git@github.com:hitsoft-redmine/plantuml.git
+[submodule "plugins/redmine_callout_macro"]
+	path = plugins/redmine_callout_macro
+	url = git@github.com:hitsoft-redmine/redmine_callout_macro.git
