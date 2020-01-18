@@ -22,3 +22,6 @@
 [submodule "plugins/select_to_select2"]
 	path = plugins/select_to_select2
 	url = git@github.com:hitsoft-redmine/select_to_select2.git
+[submodule "plugins/redmine_issue_templates"]
+	path = plugins/redmine_issue_templates
+	url = git@github.com:hitsoft-redmine/redmine_issue_templates.git
