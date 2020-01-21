@@ -43,3 +43,6 @@
 [submodule "plugins/redmine_share"]
 	path = plugins/redmine_share
 	url = git@github.com:hitsoft-redmine/redmine_share.git
+[submodule "plugins/redmine_shared_api"]
+	path = plugins/redmine_shared_api
+	url = git@github.com:hitsoft-redmine/redmine_shared_api.git
