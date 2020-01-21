@@ -46,3 +46,6 @@
 [submodule "plugins/redmine_shared_api"]
 	path = plugins/redmine_shared_api
 	url = git@github.com:hitsoft-redmine/redmine_shared_api.git
+[submodule "plugins/redmine_emoji"]
+	path = plugins/redmine_emoji
+	url = git@github.com:hitsoft-redmine/redmine_emoji.git
