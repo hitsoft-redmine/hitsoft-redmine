@@ -49,3 +49,6 @@
 [submodule "plugins/redmine_emoji"]
 	path = plugins/redmine_emoji
 	url = git@github.com:hitsoft-redmine/redmine_emoji.git
+[submodule "plugins/alpha_cards"]
+	path = plugins/alpha_cards
+	url = git@github.com:hitsoft-redmine/alpha_cards.git
