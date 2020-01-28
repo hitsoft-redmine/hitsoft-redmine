@@ -55,3 +55,6 @@
 [submodule "plugins/redmine_my_page"]
 	path = plugins/redmine_my_page
 	url = git@github.com:hitsoft-redmine/redmine_my_page.git
+[submodule "plugins/redmine_dashboard"]
+	path = plugins/redmine_dashboard
+	url = git@github.com:hitsoft-redmine/redmine_dashboard.git
