@@ -52,3 +52,6 @@
 [submodule "plugins/alpha_cards"]
 	path = plugins/alpha_cards
 	url = git@github.com:hitsoft-redmine/alpha_cards.git
+[submodule "plugins/redmine_my_page"]
+	path = plugins/redmine_my_page
+	url = git@github.com:hitsoft-redmine/redmine_my_page.git
