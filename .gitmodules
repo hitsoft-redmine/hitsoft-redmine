@@ -58,3 +58,6 @@
 [submodule "plugins/redmine_dashboard"]
 	path = plugins/redmine_dashboard
 	url = git@github.com:hitsoft-redmine/redmine_dashboard.git
+[submodule "plugins/redmine_impersonate"]
+	path = plugins/redmine_impersonate
+	url = git@github.com:hitsoft-redmine/redmine_impersonate.git
