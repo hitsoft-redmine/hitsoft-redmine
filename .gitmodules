@@ -61,3 +61,6 @@
 [submodule "plugins/redmine_impersonate"]
 	path = plugins/redmine_impersonate
 	url = git@github.com:hitsoft-redmine/redmine_impersonate.git
+[submodule "plugins/redmine_wiki_backlinks"]
+	path = plugins/redmine_wiki_backlinks
+	url = git@github.com:hitsoft-redmine/redmine_wiki_backlinks.git
