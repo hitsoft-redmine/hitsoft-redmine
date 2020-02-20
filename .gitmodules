@@ -64,3 +64,6 @@
 [submodule "plugins/additionals"]
 	path = plugins/additionals
 	url = git@github.com:hitsoft-redmine/additionals.git
+[submodule "plugins/redmine_global_toc"]
+	path = plugins/redmine_global_toc
+	url = git@github.com:hitsoft-redmine/redmine_global_toc.git
