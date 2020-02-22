@@ -67,3 +67,6 @@
 [submodule "plugins/redmine_global_toc"]
 	path = plugins/redmine_global_toc
 	url = git@github.com:hitsoft-redmine/redmine_global_toc.git
+[submodule "plugins/redmine_wiki_html_util"]
+	path = plugins/redmine_wiki_html_util
+	url = git@github.com:hitsoft-redmine/redmine_wiki_html_util.git
