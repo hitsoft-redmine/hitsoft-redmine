@@ -73,3 +73,6 @@
 [submodule "plugins/redmine_child_pages_h1"]
 	path = plugins/redmine_child_pages_h1
 	url = git@github.com:hitsoft-redmine/redmine_child_pages_h1.git
+[submodule "plugins/redmine_omg_essence"]
+	path = plugins/redmine_omg_essence
+	url = git@github.com:hitsoft-redmine/redmine_omg_essence.git
