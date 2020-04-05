@@ -73,3 +73,6 @@
 [submodule "plugins/redmine_omg_essence"]
 	path = plugins/redmine_omg_essence
 	url = git@github.com:hitsoft-redmine/redmine_omg_essence.git
+[submodule "plugins/redmine_emojibutton"]
+	path = plugins/redmine_emojibutton
+	url = git@github.com:hitsoft-redmine/redmine_emojibutton.git
