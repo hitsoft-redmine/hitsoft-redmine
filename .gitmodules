@@ -76,3 +76,6 @@
 [submodule "plugins/redmine_emojibutton"]
 	path = plugins/redmine_emojibutton
 	url = git@github.com:hitsoft-redmine/redmine_emojibutton.git
+[submodule "themes/axiom"]
+	path = themes/axiom
+	url = git@github.com:hitsoft-redmine/axiom.git
