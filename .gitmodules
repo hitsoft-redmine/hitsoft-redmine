@@ -4,78 +4,99 @@
 [submodule "plugins/redmine_git_mirror"]
 	path = plugins/redmine_git_mirror
 	url = git@github.com:hitsoft-redmine/redmine_git_mirror.git
+	branch = hitsoft
 [submodule "plugins/redmine_theme_changer"]
 	path = plugins/redmine_theme_changer
 	url = git@github.com:hitsoft-redmine/redmine_theme_changer.git
-[submodule "themes/RTMaterial"]
-	path = themes/RTMaterial
-	url = git@github.com:hitsoft-redmine/RTMaterial.git
+	branch = hitsoft
 [submodule "themes/PurpleMine2"]
 	path = themes/PurpleMine2
 	url = git@github.com:hitsoft-redmine/PurpleMine2.git
+	branch = hitsoft
 [submodule "plugins/redmine_mentions"]
 	path = plugins/redmine_mentions
 	url = git@github.com:hitsoft-redmine/redmine_mentions.git
+	branch = hitsoft
 [submodule "plugins/redmine_shortcuts"]
 	path = plugins/redmine_shortcuts
 	url = git@github.com:hitsoft-redmine/redmine_shortcuts.git
+	branch = hitsoft
 [submodule "plugins/redmine_issue_templates"]
 	path = plugins/redmine_issue_templates
 	url = git@github.com:hitsoft-redmine/redmine_issue_templates.git
+	branch = hitsoft
 [submodule "plugins/redmine_wiki_lists"]
 	path = plugins/redmine_wiki_lists
 	url = git@github.com:hitsoft-redmine/redmine_wiki_lists.git
+	branch = hitsoft
 [submodule "plugins/redmine_issues_hub"]
 	path = plugins/redmine_issues_hub
 	url = git@github.com:hitsoft-redmine/redmine_issues_hub.git
+	branch = hitsoft
 [submodule "plugins/redmine_project_alias_2"]
 	path = plugins/redmine_project_alias_2
 	url = git@github.com:hitsoft-redmine/redmine_project_alias_2.git
+	branch = hitsoft
 [submodule "plugins/plantuml"]
 	path = plugins/plantuml
 	url = git@github.com:hitsoft-redmine/plantuml.git
+	branch = hitsoft
 [submodule "plugins/redmine_callout_macro"]
 	path = plugins/redmine_callout_macro
 	url = git@github.com:hitsoft-redmine/redmine_callout_macro.git
+	branch = hitsoft
 [submodule "plugins/redmine_share"]
 	path = plugins/redmine_share
 	url = git@github.com:hitsoft-redmine/redmine_share.git
+	branch = hitsoft
 [submodule "plugins/redmine_shared_api"]
 	path = plugins/redmine_shared_api
 	url = git@github.com:hitsoft-redmine/redmine_shared_api.git
+	branch = hitsoft
 [submodule "plugins/alpha_cards"]
 	path = plugins/alpha_cards
 	url = git@github.com:hitsoft-redmine/alpha_cards.git
+	branch = hitsoft
 [submodule "plugins/redmine_my_page"]
 	path = plugins/redmine_my_page
 	url = git@github.com:hitsoft-redmine/redmine_my_page.git
+	branch = hitsoft
 [submodule "plugins/redmine_dashboard"]
 	path = plugins/redmine_dashboard
 	url = git@github.com:hitsoft-redmine/redmine_dashboard.git
+	branch = hitsoft
 [submodule "plugins/redmine_impersonate"]
 	path = plugins/redmine_impersonate
 	url = git@github.com:hitsoft-redmine/redmine_impersonate.git
+	branch = hitsoft
 [submodule "plugins/redmine_wiki_backlinks"]
 	path = plugins/redmine_wiki_backlinks
 	url = git@github.com:hitsoft-redmine/redmine_wiki_backlinks.git
+	branch = hitsoft
 [submodule "plugins/additionals"]
 	path = plugins/additionals
 	url = git@github.com:hitsoft-redmine/additionals.git
+	branch = hitsoft
 [submodule "plugins/redmine_global_toc"]
 	path = plugins/redmine_global_toc
 	url = git@github.com:hitsoft-redmine/redmine_global_toc.git
+	branch = hitsoft
 [submodule "plugins/redmine_wiki_html_util"]
 	path = plugins/redmine_wiki_html_util
 	url = git@github.com:hitsoft-redmine/redmine_wiki_html_util.git
+	branch = hitsoft
 [submodule "plugins/redmine_child_pages_h1"]
 	path = plugins/redmine_child_pages_h1
 	url = git@github.com:hitsoft-redmine/redmine_child_pages_h1.git
+	branch = hitsoft
 [submodule "plugins/redmine_omg_essence"]
 	path = plugins/redmine_omg_essence
 	url = git@github.com:hitsoft-redmine/redmine_omg_essence.git
+	branch = hitsoft
 [submodule "plugins/redmine_emojibutton"]
 	path = plugins/redmine_emojibutton
 	url = git@github.com:hitsoft-redmine/redmine_emojibutton.git
+	branch = hitsoft
 [submodule "themes/axiom"]
 	path = themes/axiom
 	url = git@github.com:hitsoft-redmine/axiom.git
