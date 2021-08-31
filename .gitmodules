@@ -100,3 +100,7 @@
 [submodule "themes/axiom"]
 	path = themes/axiom
 	url = git@github.com:hitsoft-redmine/axiom.git
+[submodule "plugins/redmine_wiki_extensions"]
+	path = plugins/redmine_wiki_extensions
+	url = git@github.com:hitsoft-redmine/redmine_wiki_extensions.git
+	branch = hitsoft

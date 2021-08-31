@@ -1,4 +1,4 @@
-FROM ruby:2.6-slim-buster
+FROM ruby:2.7-slim-buster
 
 # explicitly set uid/gid to guarantee that it won't change in the future
 # the values 999:999 are identical to the current user/group id assigned
@@ -54,7 +54,7 @@ RUN set -eux; \
 	wget -O /usr/local/bin/tini "https://github.com/krallin/tini/releases/download/v$TINI_VERSION/tini-$dpkgArch"; \
 	wget -O /usr/local/bin/tini.asc "https://github.com/krallin/tini/releases/download/v$TINI_VERSION/tini-$dpkgArch.asc"; \
 	export GNUPGHOME="$(mktemp -d)"; \
-	gpg --batch --keyserver ha.pool.sks-keyservers.net --recv-keys 6380DC428747F6C393FEACA59A84159D7001A4E5; \
+	gpg --batch --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 595E85A6B1B4779EA4DAAEC70B588DFF0527A9B7; \
 	gpg --batch --verify /usr/local/bin/tini.asc /usr/local/bin/tini; \
 	gpgconf --kill all; \
 	rm -r "$GNUPGHOME" /usr/local/bin/tini.asc; \

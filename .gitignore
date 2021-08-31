@@ -64,3 +64,4 @@ build-iPhoneSimulator/
 /www
 /db
 docker-compose.yml
+.python-version
