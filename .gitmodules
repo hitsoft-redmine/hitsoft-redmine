@@ -104,3 +104,7 @@
 	path = plugins/redmine_wiki_extensions
 	url = git@github.com:hitsoft-redmine/redmine_wiki_extensions.git
 	branch = hitsoft
+[submodule "plugins/additional_tags"]
+	path = plugins/additional_tags
+	url = git@github.com:hitsoft-redmine/additional_tags.git
+	branch = hitsoft
