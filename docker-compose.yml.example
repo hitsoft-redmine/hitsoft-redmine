@@ -3,7 +3,8 @@ version: '3.1'
 services:
 
   redmine:
-    image: redmine
+    build: .
+#    image: redmine
     restart: always
     ports:
     - 9999:3000
@@ -12,5 +13,6 @@ services:
     volumes:
     - ./files:/usr/src/redmine/files
     - ./plugins:/usr/src/redmine/plugins
-    - ./themes/flatly_light_redmine:/usr/src/redmine/public/themes/flatly_light_redmine
+    - ./themes/PurpleMine2:/usr/src/redmine/public/themes/PurpleMine2
     - ./db:/usr/src/redmine/sqlite
+
