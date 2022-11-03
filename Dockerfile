@@ -21,6 +21,10 @@ RUN set -eux; \
 		ghostscript \
 		gsfonts \
 		imagemagick \
+		\
+		make \
+		gcc \
+		patch \
 	; \
 	rm -rf /var/lib/apt/lists/*
 
